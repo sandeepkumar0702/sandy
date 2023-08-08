@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/sandy/static/css/main.073c9b0a.css",
-    "main.js": "/sandy/static/js/main.0a5be754.js",
+    "main.js": "/sandy/static/js/main.48d632da.js",
     "static/js/787.1888d250.chunk.js": "/sandy/static/js/787.1888d250.chunk.js",
+    "static/media/logo.svg": "/sandy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/sandy/index.html",
     "main.073c9b0a.css.map": "/sandy/static/css/main.073c9b0a.css.map",
-    "main.0a5be754.js.map": "/sandy/static/js/main.0a5be754.js.map",
+    "main.48d632da.js.map": "/sandy/static/js/main.48d632da.js.map",
     "787.1888d250.chunk.js.map": "/sandy/static/js/787.1888d250.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0a5be754.js"
+    "static/js/main.48d632da.js"
   ]
 }
